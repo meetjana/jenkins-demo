@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is my first Jenkin demo"
+echo "This is my first Jenkin demo."
